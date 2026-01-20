@@ -6,8 +6,7 @@ I care about code quality, performance, and doing things the right way, not just
 🚀 About Me:
 
 I’m a developer who enjoys solving real problems with clean solutions.<br>
-From custom WordPress builds to full-stack development, I focus on writing code that’s:
-
+From custom WordPress builds to full-stack development, I focus on writing code that’s:<br>
 -easy to understand<br>
 -easy to maintain<br>
 -No shortcuts. No messy code. Just solid development.
@@ -31,10 +30,10 @@ Git • GitHub • VS Code • REST APIs • cPanel
 
 🧩 My Approach:
 
-Clean code > clever code<br>
-Performance matters<br>
-Details matter<br>
-Always improving, always learning
+-Clean code > clever code<br>
+-Performance matters<br>
+-Details matter<br>
+-Always improving, always learning
 
 📬 Let’s Connect<br>
 Check out my repositories — they show how I work.<br>
