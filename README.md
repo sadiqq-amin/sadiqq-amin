@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hey, I’m a Full-Stack Developer
+I build fast, clean, and scalable web applications — mostly with WordPress and modern web tech.
+I care about code quality, performance, and doing things the right way, not just making them “work.”
 
-<!--
-**sadiqq-amin/sadiqq-amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I’m a developer who enjoys solving real problems with clean solutions.
+From custom WordPress builds to full-stack development, I focus on writing code that’s:
+-easy to understand
+-easy to maintain
+-No shortcuts. No messy code. Just solid development.
 
-Here are some ideas to get you started:
+🛠️ Tech I Work With
+Frontend
+HTML • CSS • JavaScript • React • Typescript
+Backend
+PHP • WordPress • MySQL
+Tools & Workflow
+Git • GitHub • VS Code • REST APIs • cPanel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 What I Do Best
+-Custom WordPress Websites
+-Full-stack web development
+-Fixing bugs & optimizing performance
+-Responsive, clean UI implementation
+-Writing maintainable, scalable code
+
+🧩 My Approach
+Clean code > clever code
+Performance matters
+Details matter
+Always improving, always learning
+
+📬 Let’s Connect
+Check out my repositories — they show how I work.
+If you’re building something interesting or need a solid developer, let’s talk.
+
+Check out my repositories — they show how I work.
+If you’re building something interesting or need a solid developer, let’s talk.
