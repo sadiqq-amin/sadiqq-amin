@@ -14,11 +14,11 @@ From custom WordPress builds to full-stack development, I focus on writing code 
 
 🛠️ Tech I Work With:
 
-Frontend
-HTML • CSS • JavaScript • React • Typescript
-Backend
-PHP • WordPress • MySQL
-Tools & Workflow
+Frontend<br>
+HTML • CSS • JavaScript • React • Typescript<br>
+Backend<br>
+PHP • WordPress • MySQL<br>
+Tools & Workflow<br>
 Git • GitHub • VS Code • REST APIs • cPanel
 
 💼 What I Do Best:
@@ -36,7 +36,7 @@ Performance matters<br>
 Details matter<br>
 Always improving, always learning
 
-📬 Let’s Connect
+📬 Let’s Connect<br>
 Check out my repositories — they show how I work.<br>
 If you’re building something interesting or need a solid developer, let’s talk.
 
