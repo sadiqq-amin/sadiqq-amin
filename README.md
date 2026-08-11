@@ -155,7 +155,7 @@ I believe good software should be:
 
 I'm interested in building useful products, collaborating on challenging projects, and continuously improving as a software engineer.
 
-[GitHub](https://github.com/sadiqq-amin) · [LinkedIn](https://linkedin.com/sheikhsadiq) · [Email](mailto:sadiqamin.work@gmail.com)
+[GitHub](https://github.com/sadiqq-amin) · [LinkedIn](https://www.linkedin.com/in/sheikh-sadiq/) · [Email](mailto:sadiqamin.work@gmail.com)
 
 ---
 
